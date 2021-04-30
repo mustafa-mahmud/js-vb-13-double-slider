@@ -77,3 +77,4 @@ upButton[_0x4efb39(0xff)]('click', () => changeSlide('up')),
   downButton[_0x4efb39(0xff)](_0x4efb39(0x101), () =>
     changeSlide(_0x4efb39(0x10f))
   );
+console.log(123);
